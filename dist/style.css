@@ -16,8 +16,6 @@ Use a better box model (opinionated).
 @font-face {
     font-family:Hanfont;
     src:url('../fonts/Hanfont-Regular.ttf') format('truetype');
-    /* url('../fonts/Captureit.eot#iefix') format('embedded-opentype'),
-    url('../fonts/Captureit.woff') format('woff'); */
     font-weight:normal;
     font-style:normal;
 }
