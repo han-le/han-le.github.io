@@ -1,0 +1,23 @@
+{
+  "name": "hanblog",
+  "version": "1.0.0",
+  "description": "github blog",
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/han-le/han-le.github.io.git"
+  },
+  "author": "HanLe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/han-le/han-le.github.io/issues"
+  },
+  "homepage": "https://github.com/han-le/han-le.github.io#readme"
+}
